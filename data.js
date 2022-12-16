@@ -10,9 +10,9 @@ const data = {
         slider_img3: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/SNN_RAJ_HIGH_GADRENS_Elevation__XprM3gMzT.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633901393"
     },
     gallery__slider: {
-        gallery__slider__img1: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/0010_7t3BL3V-F.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633898972",
-        gallery__slider__img2: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/0011_633gVevn0.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633899220",
-        gallery__slider__img3: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/0012_F-oAayWna.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633899544",
+        gallery__slider__img1: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/SNN_RAJ_HIGH_GADRENS_Elevation__XprM3gMzT.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633901393",
+        gallery__slider__img2: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/SNN_RAJ_HIGH_GADRENS_Elevation__XprM3gMzT.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633901393",
+        gallery__slider__img3: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/SNN_RAJ_HIGH_GADRENS_Elevation__XprM3gMzT.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633901393",
         gallery__slider__img4: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/0007_NPXUAkGS3.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633897856",
         gallery__slider__img5: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/0008_DYysWCM6l.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633898014",
         gallery__slider__img6: "https://ik.imagekit.io/hp4i1dxyi/Snn_Raj_High_garden/0009_8dOztcxPD.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657633898457",
